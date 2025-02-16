@@ -1,4 +1,5 @@
-#pre Onyku™ provider mix
+# pre Onyku™ provider mix
+
  - Website: https://calvetit.com/
 
 Open Knowledge shared by Calvet IT until Onyku™ standards are defined.
@@ -9,7 +10,8 @@ The product is in its very early stages, with only a basic proof of concept for 
 This repository is a way for Calvet IT to share knowledge according to Open Knowledge principles until Onyku™ standards are defined therefore the "pre" in the name.
 It will also serve as a foundation for defining future standards.
 
-#License
+# License
+
 This repository is not Open Source yet.
 Therefore there is no WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
